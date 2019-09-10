@@ -1,6 +1,6 @@
 # Simple-Blockchain
 
-Simple-Blockchain is a Python library for dealing with word pluralization.
+Simple-Blockchain is a Python blockchain library example.
 
 ## Installation
 
